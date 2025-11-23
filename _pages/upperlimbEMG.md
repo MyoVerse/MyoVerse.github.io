@@ -8,4 +8,4 @@ nav_order: 2
 
 Intro text for the Upperlimb EMG section.
 
-- [Dataset]({{ '/upperlimbEMG/RiemannianManifolds/' | relative_url }})
+- [Discrete hand gesture decoding using EMG]({{ '/upperlimbEMG/RiemannianManifolds/' | relative_url }})
