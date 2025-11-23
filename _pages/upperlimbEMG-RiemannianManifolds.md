@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Discrete hand gesture decoding using EMG
+title: DISCRETE HAND GESTURE DECODING USING EMG
 permalink: /upperlimbEMG/RiemannianManifolds/
 nav: false
 ---
