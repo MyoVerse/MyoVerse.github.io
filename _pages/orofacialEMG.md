@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
+permalink: /orofacialEMG/
+title: Orofacial electromyography
 description: 
 nav: true
 nav_order: 7

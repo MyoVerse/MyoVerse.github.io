@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: Blog
+permalink: /upperlimbEMG/
+title: Upperlimb electromyography
 nav: true
 nav_order: 1
 pagination:
