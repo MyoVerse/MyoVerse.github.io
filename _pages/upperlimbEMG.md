@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /upperlimbEMG/
 title: Upperlimb electromyography
+permalink: /upperlimbEMG/
 nav: true
-nav_order:2
+nav_order: 2
 ---
 
 Intro text for the Upperlimb EMG section.
 
-- [Hand gesture decoding using EMG on Riemannian manifolds](/upperlimbEMG/RiemannianManifolds/)
+- [Dataset]({{ '/upperlimbEMG/RiemannianManifolds/' | relative_url }})
