@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A unified platform for electromyography datasets, models, and research tools
+subtitle: A unified platform for ELECTROMYOGRAPHY (EMG) datasets, models, and research tools
 
 
 news: false # includes a list of news items
