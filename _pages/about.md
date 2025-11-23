@@ -2,12 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Building accessible SPEECH and LANGUAGE technologies with neuromotor interfaces.
+subtitle: A unified platform for electromyography datasets, models, and research tools
 
-profile:
-  align: middle
-  image: hand.jpg
-  image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
