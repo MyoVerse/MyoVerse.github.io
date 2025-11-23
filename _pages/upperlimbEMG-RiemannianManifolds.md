@@ -7,6 +7,6 @@ nav: false
 
 <style>
   h1.page-title {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
   }
 </style>
