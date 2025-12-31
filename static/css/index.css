@@ -153,3 +153,18 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+
+/* Formal serif font only for the demo carousel section */
+.formal-serif,
+.formal-serif .title,
+.formal-serif .subtitle,
+.formal-serif .content,
+.formal-serif p,
+.formal-serif span,
+.formal-serif strong,
+.formal-serif a,
+.formal-serif button,
+.formal-serif .box {
+  font-family: "Times New Roman", Times, serif !important;
+}
