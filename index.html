@@ -215,31 +215,14 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            We present the first method capable of photorealistically reconstructing a non-rigidly
-            deforming scene using photos/videos captured casually from mobile phones.
-          </p>
-          <p>
-            Our approach augments neural radiance fields
-            (NeRF) by optimizing an
-            additional continuous volumetric deformation field that warps each observed point into a
-            canonical 5D NeRF.
-            We observe that these NeRF-like deformation fields are prone to local minima, and
-            propose a coarse-to-fine optimization method for coordinate-based models that allows for
-            more robust optimization.
-            By adapting principles from geometry processing and physical simulation to NeRF-like
-            models, we propose an elastic regularization of the deformation field that further
-            improves robustness.
-          </p>
-          <p>
-            We show that <span class="dnerf">Nerfies</span> can turn casually captured selfie
-            photos/videos into deformable NeRF
-            models that allow for photorealistic renderings of the subject from arbitrary
-            viewpoints, which we dub <i>"nerfies"</i>. We evaluate our method by collecting data
-            using a
-            rig with two mobile phones that take time-synchronized photos, yielding train/validation
-            images of the same pose at different viewpoints. We show that our method faithfully
-            reconstructs non-rigidly deforming scenes and reproduces unseen views with high
-            fidelity.
+            We present a neuromuscular speech interface that translates electromyographic (EMG) signals recorded from orofacial muscles 
+            during speech articulation directly into audio. We find that self-supervised speech representations (SS) are strongly linearly 
+            related to the electrical power of muscle activity: a simple linear mapping predicts EMG power from SS with a correlation of 
+            <em>r</em> = 0.85. In addition, EMG power vectors associated with distinct articulatory gestures form structured, separable clusters. 
+            Together, these observations suggest that SS implicitly encode articulatory mechanisms, as reflected in EMG activity.
+            Leveraging this structure, we map EMG signals into the SS space and synthesize speech, enabling end-to-end EMG-to-speech generation 
+            without explicit articulatory modeling or vocoder training. We demonstrate this system with a participant with amyotrophic lateral sclerosis (ALS), 
+            converting orofacial EMG recorded while she <em>silently</em> articulated speech into audio.
           </p>
         </div>
       </div>
