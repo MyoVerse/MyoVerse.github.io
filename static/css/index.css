@@ -174,3 +174,5 @@ section.formal-serif,
 section.formal-serif * {
   font-family: "Times New Roman", Times, serif !important;
 }
+
+section.formal-serif { outline: 6px solid red !important; }
