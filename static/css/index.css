@@ -168,9 +168,3 @@ body {
 .formal-serif .box {
   font-family: "Times New Roman", Times, serif !important;
 }
-
-/* Force Times New Roman in the demo section (override Bulma + template) */
-section.formal-serif,
-section.formal-serif * {
-  font-family: "Times New Roman", Times, serif !important;
-}
