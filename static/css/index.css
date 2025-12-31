@@ -155,18 +155,11 @@ body {
 }
 
 
-/* Formal serif font only for the demo carousel section */
-.formal-serif,
-.formal-serif .title,
-.formal-serif .subtitle,
-.formal-serif .content,
-.formal-serif p,
-.formal-serif span,
-.formal-serif strong,
-.formal-serif a,
-.formal-serif button,
-.formal-serif .box {
-  font-family: "Times New Roman", Times, serif !important;
+/* Monospace (LaTeX \texttt-like) only for the demo carousel section */
+section.formal-serif,
+section.formal-serif * {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+               "Liberation Mono", "Courier New", monospace !important;
 }
 
 
