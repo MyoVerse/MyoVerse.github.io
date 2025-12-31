@@ -162,12 +162,16 @@ document.addEventListener('DOMContentLoaded', () => {
   bulmaCarousel.attach('.results-carousel', {
     slidesToScroll: 1,
     slidesToShow: 1,
-    loop: true,          // 1-2-3-4-5-1-2...
-    autoplay: false,     // only rotate on click/swipe
+
+    autoplay: false,     // only move on click/swipe
     navigation: true,
-    pagination: true
+    pagination: true,
+
+    loop: false,         // disable "back-and-forth" style looping
+    infinite: true       // 1->2->3->4->5->1->2...
   });
 });
+
 </script>
 
 
